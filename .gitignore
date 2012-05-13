@@ -1,12 +1,15 @@
-build/api
-build/code-browser
-build/coverage
-build/logs
-build/pdepend
-build/phpdox
-build/SebastianBergmann
-build/*.tgz
-cache.properties
-phpunit.xml
+/build/api
+/build/code-browser
+/build/coverage
+/build/logs
+/build/pdepend
+/build/phpdox
+/build/SebastianBergmann
+/build/*.tgz
+/cache.properties
+/phpunit.xml
 
-vendor
+# Composer
+/composer.phar
+/composer.lock
+/vendor
