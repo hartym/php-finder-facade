@@ -1,9 +1,14 @@
 {
     "name": "sebastianbergmann/finder-facade",
+    "type": "library",
     "description": "Sebastian Bergmann's facade to Symfony2 finder.",
     "require": {
         "symfony/finder": "2.1.x-dev"
     },
+    "autoload": {
+        "psr-0": { "SebastianBergmann\\FinderFacade": "src" }
+    },
+    "target-dir": "SebastianBergmann/FinderFacade",
     "authors": [
         {
             "name": "Sebastian Bergmann",
