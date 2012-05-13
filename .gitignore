@@ -8,3 +8,5 @@ build/SebastianBergmann
 build/*.tgz
 cache.properties
 phpunit.xml
+
+vendor

@@ -1,0 +1,13 @@
+{
+    "name": "sebastianbergmann/finder-facade",
+    "description": "Sebastian Bergmann's facade to Symfony2 finder.",
+    "require": {
+        "symfony/finder": "2.1.x-dev"
+    },
+    "authors": [
+        {
+            "name": "Sebastian Bergmann",
+            "email": "sb@sebastian-bergmann.de"
+        }
+    ]
+}
