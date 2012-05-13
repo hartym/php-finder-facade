@@ -8,7 +8,6 @@
     "autoload": {
         "psr-0": { "SebastianBergmann\\FinderFacade": "src" }
     },
-    "target-dir": "SebastianBergmann/FinderFacade",
     "authors": [
         {
             "name": "Sebastian Bergmann",
